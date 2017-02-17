@@ -1,5 +1,6 @@
 from PizzaMatrix import PizzaMatrix
 
+
 class TheReader:
 
     def __init__(self, inputFileName):
